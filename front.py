@@ -13,7 +13,7 @@ import subprocess
 # import streamlit_authenticator as stauth
 
 # ====================parameters====================
-back_ip = "localhost"
+back_ip = "222.114.53.153"
 back_port = 8505
 meal_photo_dir_path = "/home/livin/kidney_service/back/fastapi/app"
 life_log_container_height = 400
